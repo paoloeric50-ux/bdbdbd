@@ -1,0 +1,169 @@
+Context and Preparation
+
+Throughout Weeks 7–9, your team explored how frontend and backend technologies work together to support more complete web applications.
+
+
+
+Using Express.js, you implemented backend functionality that allows your application to receive information, provide responses, or store information beyond the current browser session.
+
+
+
+For Milestone 2, your team will refine your implementation, finalize your backend-supported feature, and submit an updated version of your Browser-Based Application Development Workflow Worksheet.
+
+
+
+By the end of this milestone, your browser-based application should demonstrate:
+
+meaningful frontend and backend integration
+at least one implemented backend-supported feature
+evidence of testing and refinement
+alignment with your application's intended purpose and goals
+updated workflow planning and implementation documentation
+
+
+The goal is not to create a complex backend system. Instead, focus on implementing a realistic and meaningful backend-supported feature that strengthens your application and demonstrates your understanding of frontend–backend communication.
+
+
+
+Step 1 – Review Your Backend Implementation
+
+Open the latest version of your project.
+
+Review the backend-supported feature implemented during Homework 7.
+
+
+
+Verify that:
+
+the frontend successfully communicates with the backend
+the implemented feature behaves as intended
+information is processed correctly
+any stored information remains available when applicable
+the implementation remains aligned with your project goals
+
+
+Make revisions as necessary before proceeding.
+
+
+
+Step 2 – Test and Refine Your Backend-Supported Feature
+
+Conduct testing of your implemented feature.
+
+
+
+Consider questions such as:
+
+Does the feature consistently produce the expected results?
+Does information successfully move between the frontend and backend?
+Are there situations where the feature behaves unexpectedly?
+Are error messages or user feedback clear?
+Does the feature improve the application's overall usefulness?
+
+
+Test multiple scenarios whenever possible.
+
+
+
+Examples may include:
+
+different user inputs
+valid and invalid values
+repeated submissions
+application restarts
+different interaction sequences
+
+
+Use the results of your testing to make improvements and corrections where needed.
+
+
+
+Step 3 – Conduct a Team Review
+
+Meet with your team and review the current state of your backend-supported application.
+
+Discuss:
+
+the backend-supported feature selected by the team
+how the feature supports the project's goals
+implementation challenges encountered
+testing results and observations
+any final revisions needed before submission
+
+
+As a team, confirm that the current implementation remains realistic, aligned with the project's intended scope, and achievable within the course timeline.
+
+
+
+Step 4 – Review and Update Your Browser-Based Application Development Workflow Worksheet
+
+Open your Browser-Based Application Development Workflow Worksheet.
+
+Review and update all relevant sections to reflect the work completed during Weeks 7–9.
+
+
+
+At a minimum, ensure the worksheet reflects:
+
+Backend-Supported Features Analysis decisions
+completed implementation work
+implementation dependencies
+workflow updates and revisions
+development reflections
+team discussion outcomes
+updated Team Contributions Table
+
+
+The worksheet should accurately represent your team's implementation decisions, development progress, and current project direction.
+
+
+
+Step 5 – Prepare Your Submission
+
+Before submitting, verify that:
+
+your browser-based application includes at least one meaningful backend-supported feature
+your implementation has been tested and refined
+your GitHub repository contains the latest version of the project files
+your Browser-Based Application Development Workflow Worksheet has been updated and finalized
+the Team Contributions Table has been completed by all team members
+
+
+Make any final revisions before submission.
+
+
+
+Step 6 – Submit Your Output
+
+The final Milestone 2 submission is due during Week 9.
+
+Submit the completed Browser-Based Application Development Workflow Worksheet.
+
+Your worksheet should include:
+
+GitHub repository URL
+Backend-Supported Features Analysis
+implementation updates and revisions
+workflow reflections
+completed Milestone 2 Team Contributions Table
+
+
+Do not submit your project files separately if the repository link is correctly included in the worksheet.
+
+Paste the repository link into the worksheet and ensure all team members have access to the latest version.
+
+﻿Every team member must submit the same worksheet link individually.
+
+
+
+Important Note About Scope
+
+Milestone 2 focuses on lightweight backend implementation.
+
+You are not expected to build:
+
+ complete authentication systems 
+ database-driven platforms 
+ multi-user account management 
+ enterprise-scale backend architectures 
+An advanced submission is not necessarily the most complex submission.
